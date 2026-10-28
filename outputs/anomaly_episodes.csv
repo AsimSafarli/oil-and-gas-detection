@@ -1,0 +1,10 @@
+episode_id,well_id,start,end,flagged_hours,max_score,top_reason
+5,WELL-B,2025-02-28 21:00:00,2025-03-01 05:00:00,9,0.8038,oil_rate_bpd volatility ↑ (z=+98.7); wellhead_pressure_bar volatility ↑ (z=+72.1); oil_rate_bpd ↓ (z=-62.0)
+3,WELL-A,2025-04-13 04:00:00,2025-04-13 13:00:00,10,0.8023,oil_rate_bpd volatility ↑ (z=+90.5); wellhead_pressure_bar volatility ↑ (z=+85.3); oil_rate_bpd ↓ (z=-60.1)
+8,WELL-C,2025-02-11 04:00:00,2025-02-12 22:00:00,43,0.7293,wellhead_pressure_bar volatility ↑ (z=+54.3); oil_rate_bpd volatility ↑ (z=+52.9); oil_rate_bpd change ↑ (z=+27.2)
+2,WELL-A,2025-03-13 15:00:00,2025-03-15 05:00:00,39,0.7252,wellhead_pressure_bar volatility ↑ (z=+51.0); oil_rate_bpd volatility ↑ (z=+49.2); oil_rate_bpd change ↑ (z=+23.8)
+9,WELL-C,2025-03-22 21:00:00,2025-03-23 22:00:00,26,0.7187,wellhead_pressure_bar volatility ↑ (z=+60.1); oil_rate_bpd volatility ↑ (z=+35.9); wellhead_pressure_bar change ↓ (z=-34.4)
+4,WELL-B,2025-01-23 16:00:00,2025-01-24 19:00:00,28,0.7173,wellhead_pressure_bar volatility ↑ (z=+61.0); oil_rate_bpd volatility ↑ (z=+39.7); wellhead_pressure_bar change ↓ (z=-39.2)
+1,WELL-A,2025-02-04 07:00:00,2025-02-05 16:00:00,34,0.6869,water_cut_pct volatility ↑ (z=+52.5); water_cut_pct ↑ (z=+40.7); oil_rate_bpd volatility ↑ (z=+15.8)
+6,WELL-B,2025-04-06 12:00:00,2025-04-07 02:00:00,14,0.6859,water_cut_pct volatility ↑ (z=+44.5); water_cut_pct ↑ (z=+34.2); oil_rate_bpd volatility ↑ (z=+14.1)
+7,WELL-B,2025-04-07 07:00:00,2025-04-07 19:00:00,13,0.587,water_cut_pct volatility ↑ (z=+43.3); water_cut_pct change ↓ (z=-25.3); oil_rate_bpd volatility ↑ (z=+13.0)
